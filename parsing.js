@@ -1,3 +1,3 @@
-const get = require('../tests/coba');
+const get = require('coba');
 
 console.log(get.p2)
