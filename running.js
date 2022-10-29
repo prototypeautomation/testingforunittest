@@ -1,7 +1,3 @@
-const apipost = require('../page-objects/api_post_request.js');
-const apiget = require('../page-objects/api_get_request.js');
-const request = require('supertest');
-
 var message = true
 
 function test(message) {
